@@ -2,7 +2,7 @@
 
 This document describes a CBOR tag for multimaps encoded as arrays of pairs.
 
-**Tag value**: 279
+**Tag value**: TBD
 
 **Data item**: Array (major type 4)
 
